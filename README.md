@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Tasnim Farhan Fahim
-- 👀 I’m interested in machine learning and fata science
-- 🌱 I’m currently learning basics of programming 
-- 💞️ I’m looking to collaborate on learning new things 
+- 🏫 Currently studying in Computer Science & Engineering at Daffodil International University(DIU)
+- 🌱 I’m currently learning basics of programming
+- - 👀 I’m interested in machine learning and data science
+- 💞️ I’m looking forward to learn new things 
 
 
 <!---
